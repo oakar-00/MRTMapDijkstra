@@ -36,3 +36,6 @@ Tada! We have our MAP!
 
  getShortestTime(origin, destination)
  - returns time taken for shortest path from origin to destination
+
+## Limitations of the model
+In the code implemented here, it only accounts for the time taken for the MRT to travel from A to B and it fails to account for the walking time at the interchange and therefore, the results might not be as accurate. 
