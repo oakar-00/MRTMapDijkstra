@@ -232,7 +232,7 @@ def makeBidirectional(origin, destination,weight, dest_edges):
 #################################
 blue_stations = ["Cashew", "Hillview", "Beauty World", "King Albert Park", "Sixth Avenue", 
  "Tan Kah Kee", "Botenic Gardens", "Stevens", "Newton", "Little India", "Rochor", "Bugis", 
- "Promonade", "Bayfront", "Downtown", "Telok Ayer", "Chinatown", "Fort Canning", "Bencoolen", 
+ "Promenade", "Bayfront", "Downtown", "Telok Ayer", "Chinatown", "Fort Canning", "Bencoolen", 
  "Jalan Besar", "Bendemeer", "Geylang Bahru", "Mattar", "MacPherson", "Ubi", "Kaki Bukit",
  "Bedok North", "Bedok Reservoir", "Tampines West", "Tampines", "Tampines East", "Upper Changi", "Expo"]
 
